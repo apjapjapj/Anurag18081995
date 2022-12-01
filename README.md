@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anurag18081995
 - 👀 I’m interested in SAAS Products
-- 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on Zoho and Other SAAS Products
+- 🌱 I’m currently learning Salesforce
+- 💞️ I’m looking to collaborate on Zoho and Other SAAS Products as well as 3rd Party Integration
 - 📫 How to reach me anurag.jaiswal.583
 
 <!---
